@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Vitor Zamboni<h1/>
-<hr>
+<h1>Vitor Zamboni
 <h2>Opa!!<h2/>
-<hr>
+  
 <ul>
-  <li>Sou estudante<li/>
-  <li>Atualmente cursando o Curso Técnico em Informática no Colégio Estadual de Pato Branco<li/>
+<li>Sou estudante
+<li>Atualmente cursando o Curso Técnico em Informática no Colégio Estadual de Pato Branco
 <ul/>
