@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **VitorZamboni/VitorZamboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Vitor Zamboni<h1/>
+<hr>
+<h2>Opa!!<h2/>
+<hr>
+<ul>
+  <li>Sou estudante<li/>
+  <li>Atualmente cursando o Curso Técnico em Informática no Colégio Estadual de Pato Branco<li/>
+<ul/>
